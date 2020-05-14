@@ -1,0 +1,47 @@
+{
+	"sarray" : {
+		"version" : 2,
+		"num_segments" : 1
+	},
+	"segment_files" : {
+		"0000" : "m_da0b55e433f2d5b6.0000"
+	},
+	"columns" : [
+		{
+			"content_type" : "",
+			"metadata" : {
+				"__type__" : "2"
+			},
+			"segment_sizes" : {
+				"0000" : "193"
+			}
+		},
+		{
+			"content_type" : "",
+			"metadata" : {
+				"__type__" : "8"
+			},
+			"segment_sizes" : {
+				"0000" : "193"
+			}
+		},
+		{
+			"content_type" : "",
+			"metadata" : {
+				"__type__" : "5"
+			},
+			"segment_sizes" : {
+				"0000" : "193"
+			}
+		},
+		{
+			"content_type" : "",
+			"metadata" : {
+				"__type__" : "8"
+			},
+			"segment_sizes" : {
+				"0000" : "193"
+			}
+		}
+	]
+}

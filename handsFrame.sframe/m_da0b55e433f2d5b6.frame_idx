@@ -1,0 +1,15 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=4
+nrows=193
+[column_names]
+0000=path
+0001=image
+0002=annotations
+0003=image_with_ground_truth
+[column_files]
+0000=m_da0b55e433f2d5b6.sidx:0
+0001=m_da0b55e433f2d5b6.sidx:1
+0002=m_da0b55e433f2d5b6.sidx:2
+0003=m_da0b55e433f2d5b6.sidx:3

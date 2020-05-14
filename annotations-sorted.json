@@ -1,0 +1,2704 @@
+[
+	{
+		"image": "pushup-down0.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 305,
+					"y": 123,
+					"width": 212,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down1.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 244,
+					"y": 260,
+					"width": 155,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down10.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 157,
+					"y": 100,
+					"width": 261,
+					"height": 70
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down11.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 198,
+					"y": 169,
+					"width": 142,
+					"height": 149
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down12.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 306,
+					"y": 219,
+					"width": 205,
+					"height": 119
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down13.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 120,
+					"y": 136,
+					"width": 180,
+					"height": 138
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down14.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 201,
+					"y": 104,
+					"width": 212,
+					"height": 158
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down15.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 268,
+					"y": 155,
+					"width": 213,
+					"height": 84
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down16.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 106,
+					"y": 108,
+					"width": 162,
+					"height": 207
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down17.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 206,
+					"y": 70,
+					"width": 231,
+					"height": 113
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down18.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 131,
+					"y": 97,
+					"width": 226,
+					"height": 119
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down19.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 82,
+					"y": 138,
+					"width": 163,
+					"height": 124
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down2.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 327,
+					"y": 150,
+					"width": 147,
+					"height": 107
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down20.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 150,
+					"y": 173,
+					"width": 297,
+					"height": 116
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down21.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 115,
+					"y": 126,
+					"width": 171,
+					"height": 161
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down22.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 312,
+					"y": 134,
+					"width": 192,
+					"height": 158
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down23.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 280,
+					"y": 250,
+					"width": 107,
+					"height": 192
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down24.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 290,
+					"y": 174,
+					"width": 224,
+					"height": 77
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down25.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 305,
+					"y": 125,
+					"width": 202,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down26.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 224,
+					"y": 122,
+					"width": 204,
+					"height": 64
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down27.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 292,
+					"y": 220,
+					"width": 149,
+					"height": 182
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down28.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 318,
+					"y": 188,
+					"width": 144,
+					"height": 189
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down29.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 253,
+					"y": 130,
+					"width": 282,
+					"height": 97
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down3.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 84,
+					"y": 140,
+					"width": 168,
+					"height": 50
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down30.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 221,
+					"y": 113,
+					"width": 153,
+					"height": 123
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down31.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 93,
+					"y": 220,
+					"width": 169,
+					"height": 183
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down32.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 99,
+					"y": 119,
+					"width": 167,
+					"height": 188
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down33.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 108,
+					"y": 32,
+					"width": 175,
+					"height": 65
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down34.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 280,
+					"y": 122,
+					"width": 251,
+					"height": 96
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down35.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 273,
+					"y": 112,
+					"width": 203,
+					"height": 66
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down36.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 148,
+					"y": 124,
+					"width": 195,
+					"height": 71
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down37.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 211,
+					"y": 125,
+					"width": 183,
+					"height": 162
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down38.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 88,
+					"y": 237,
+					"width": 169,
+					"height": 198
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down39.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 218,
+					"y": 192,
+					"width": 151,
+					"height": 59
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down4.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 91,
+					"y": 210,
+					"width": 163,
+					"height": 197
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down40.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 197,
+					"y": 129,
+					"width": 170,
+					"height": 79
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down41.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 149,
+					"y": 98,
+					"width": 194,
+					"height": 74
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down42.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 148,
+					"y": 136,
+					"width": 239,
+					"height": 74
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down43.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 211,
+					"y": 125,
+					"width": 171,
+					"height": 175
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down44.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 315,
+					"y": 100,
+					"width": 198,
+					"height": 175
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down45.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 272,
+					"y": 131,
+					"width": 282,
+					"height": 97
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down46.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 297,
+					"y": 193,
+					"width": 163,
+					"height": 185
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down47.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 141,
+					"y": 126,
+					"width": 262,
+					"height": 75
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down48.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 110,
+					"y": 208,
+					"width": 167,
+					"height": 184
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down49.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 178,
+					"y": 91,
+					"width": 222,
+					"height": 69
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down5.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 291,
+					"y": 176,
+					"width": 163,
+					"height": 178
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down50.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 190,
+					"y": 137,
+					"width": 233,
+					"height": 92
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down51.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 309,
+					"y": 243,
+					"width": 190,
+					"height": 163
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down52.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 147,
+					"y": 139,
+					"width": 228,
+					"height": 70
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down53.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 206,
+					"y": 155,
+					"width": 95,
+					"height": 179
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down54.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 208,
+					"y": 125,
+					"width": 176,
+					"height": 172
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down55.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 300,
+					"y": 182,
+					"width": 167,
+					"height": 181
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down56.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 182,
+					"y": 122,
+					"width": 166,
+					"height": 45
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down57.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 189,
+					"y": 138,
+					"width": 189,
+					"height": 73
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down58.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 138,
+					"y": 178,
+					"width": 172,
+					"height": 137
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down59.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 93,
+					"y": 107,
+					"width": 168,
+					"height": 204
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down6.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 267,
+					"y": 166,
+					"width": 179,
+					"height": 115
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down60.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 302,
+					"y": 179,
+					"width": 166,
+					"height": 177
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down61.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 117,
+					"y": 128,
+					"width": 162,
+					"height": 81
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down62.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 211,
+					"y": 123,
+					"width": 170,
+					"height": 167
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down63.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 104,
+					"y": 159,
+					"width": 159,
+					"height": 180
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down64.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 208,
+					"y": 178,
+					"width": 195,
+					"height": 132
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down65.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 316,
+					"y": 272,
+					"width": 136,
+					"height": 203
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down66.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 196,
+					"y": 81,
+					"width": 208,
+					"height": 153
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down67.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 258,
+					"y": 186,
+					"width": 228,
+					"height": 84
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down68.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 132,
+					"y": 167,
+					"width": 132,
+					"height": 143
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down69.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 292,
+					"y": 223,
+					"width": 154,
+					"height": 176
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down7.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 285,
+					"y": 151,
+					"width": 213,
+					"height": 74
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down70.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 323,
+					"y": 256,
+					"width": 187,
+					"height": 154
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down71.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 209,
+					"y": 127,
+					"width": 169,
+					"height": 170
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down72.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 250,
+					"y": 119,
+					"width": 179,
+					"height": 84
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down73.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 322,
+					"y": 228,
+					"width": 185,
+					"height": 158
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down74.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 292,
+					"y": 222,
+					"width": 114,
+					"height": 210
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down75.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 314,
+					"y": 169,
+					"width": 183,
+					"height": 191
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down76.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 211,
+					"y": 125,
+					"width": 251,
+					"height": 68
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down77.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 171,
+					"y": 145,
+					"width": 231,
+					"height": 61
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down78.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 168,
+					"y": 132,
+					"width": 336,
+					"height": 84
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down79.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 137,
+					"y": 124,
+					"width": 218,
+					"height": 68
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down8.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 320,
+					"y": 234,
+					"width": 192,
+					"height": 163
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-down9.jpg",
+		"annotations": [
+			{
+				"label": "pushup-down",
+				"coordinates": {
+					"x": 266,
+					"y": 265,
+					"width": 171,
+					"height": 126
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up0.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 213,
+					"y": 92,
+					"width": 160,
+					"height": 87
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up1.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 298,
+					"y": 199,
+					"width": 171,
+					"height": 152
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up10.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 214,
+					"y": 157,
+					"width": 181,
+					"height": 99
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up100.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 207,
+					"y": 110,
+					"width": 206,
+					"height": 147
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up101.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 296,
+					"y": 181,
+					"width": 167,
+					"height": 157
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up102.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 264,
+					"y": 219,
+					"width": 170,
+					"height": 111
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up103.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 220,
+					"y": 146,
+					"width": 204,
+					"height": 145
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up104.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 210,
+					"y": 173,
+					"width": 108,
+					"height": 158
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up105.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 215,
+					"y": 144,
+					"width": 172,
+					"height": 97
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up106.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 213,
+					"y": 131,
+					"width": 188,
+					"height": 96
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up107.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 311,
+					"y": 91,
+					"width": 207,
+					"height": 183
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up108.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 184,
+					"y": 131,
+					"width": 146,
+					"height": 74
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up109.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 182,
+					"y": 227,
+					"width": 150,
+					"height": 79
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up11.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 295,
+					"y": 267,
+					"width": 138,
+					"height": 190
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up110.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 209,
+					"y": 106,
+					"width": 301,
+					"height": 160
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up111.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 106,
+					"y": 89,
+					"width": 166,
+					"height": 149
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up112.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 279,
+					"y": 152,
+					"width": 218,
+					"height": 128
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up12.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 172,
+					"y": 53,
+					"width": 176,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up13.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 256,
+					"y": 303,
+					"width": 154,
+					"height": 107
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up14.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 108,
+					"y": 161,
+					"width": 147,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up15.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 151,
+					"y": 109,
+					"width": 253,
+					"height": 155
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up16.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 242,
+					"y": 286,
+					"width": 167,
+					"height": 89
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up17.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 208,
+					"y": 160,
+					"width": 193,
+					"height": 147
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up18.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 216,
+					"y": 99,
+					"width": 170,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up19.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 264,
+					"y": 169,
+					"width": 240,
+					"height": 132
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up2.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 248,
+					"y": 161,
+					"width": 183,
+					"height": 93
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up20.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 187,
+					"y": 83,
+					"width": 215,
+					"height": 129
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up21.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 141,
+					"y": 119,
+					"width": 273,
+					"height": 182
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up22.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 250,
+					"y": 104,
+					"width": 192,
+					"height": 120
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up23.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 214,
+					"y": 183,
+					"width": 146,
+					"height": 74
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up24.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 322,
+					"y": 264,
+					"width": 189,
+					"height": 185
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up25.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 313,
+					"y": 261,
+					"width": 133,
+					"height": 177
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up26.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 141,
+					"y": 173,
+					"width": 182,
+					"height": 114
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up27.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 322,
+					"y": 204,
+					"width": 187,
+					"height": 172
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up28.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 283,
+					"y": 66,
+					"width": 208,
+					"height": 133
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up29.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 246,
+					"y": 242,
+					"width": 163,
+					"height": 92
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up3.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 301,
+					"y": 206,
+					"width": 127,
+					"height": 183
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up30.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 259,
+					"y": 158,
+					"width": 185,
+					"height": 101
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up31.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 209,
+					"y": 183,
+					"width": 103,
+					"height": 162
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up32.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 274,
+					"y": 88,
+					"width": 264,
+					"height": 143
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up33.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 278,
+					"y": 295,
+					"width": 100,
+					"height": 162
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up34.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 158,
+					"y": 119,
+					"width": 205,
+					"height": 119
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up35.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 109,
+					"y": 177,
+					"width": 166,
+					"height": 99
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up36.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 211,
+					"y": 234,
+					"width": 154,
+					"height": 80
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up37.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 274,
+					"y": 270,
+					"width": 142,
+					"height": 153
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up38.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 247,
+					"y": 130,
+					"width": 185,
+					"height": 95
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up39.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 318,
+					"y": 241,
+					"width": 189,
+					"height": 168
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up4.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 317,
+					"y": 252,
+					"width": 138,
+					"height": 181
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up40.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 128,
+					"y": 192,
+					"width": 138,
+					"height": 70
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up41.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 287,
+					"y": 254,
+					"width": 104,
+					"height": 165
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up42.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 207,
+					"y": 114,
+					"width": 228,
+					"height": 123
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up43.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 90,
+					"y": 47,
+					"width": 168,
+					"height": 86
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up44.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 203,
+					"y": 122,
+					"width": 187,
+					"height": 171
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up45.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 284,
+					"y": 301,
+					"width": 139,
+					"height": 159
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up46.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 212,
+					"y": 104,
+					"width": 190,
+					"height": 130
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up47.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 100,
+					"y": 128,
+					"width": 183,
+					"height": 97
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up48.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 109,
+					"y": 213,
+					"width": 167,
+					"height": 109
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up49.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 102,
+					"y": 220,
+					"width": 175,
+					"height": 106
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up5.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 324,
+					"y": 208,
+					"width": 160,
+					"height": 196
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up50.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 309,
+					"y": 132,
+					"width": 194,
+					"height": 178
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up51.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 220,
+					"y": 101,
+					"width": 224,
+					"height": 130
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up52.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 280,
+					"y": 256,
+					"width": 104,
+					"height": 179
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up53.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 319,
+					"y": 157,
+					"width": 195,
+					"height": 172
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up54.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 122,
+					"y": 152,
+					"width": 169,
+					"height": 135
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up55.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 275,
+					"y": 261,
+					"width": 106,
+					"height": 166
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up56.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 214,
+					"y": 144,
+					"width": 155,
+					"height": 78
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up57.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 293,
+					"y": 294,
+					"width": 183,
+					"height": 119
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up58.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 231,
+					"y": 153,
+					"width": 215,
+					"height": 123
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up59.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 90,
+					"y": 48,
+					"width": 161,
+					"height": 85
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up6.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 313,
+					"y": 226,
+					"width": 130,
+					"height": 189
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up60.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 314,
+					"y": 95,
+					"width": 198,
+					"height": 181
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up61.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 203,
+					"y": 121,
+					"width": 151,
+					"height": 99
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up62.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 321,
+					"y": 226,
+					"width": 191,
+					"height": 170
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up63.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 292,
+					"y": 221,
+					"width": 184,
+					"height": 118
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up64.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 104,
+					"y": 184,
+					"width": 183,
+					"height": 137
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up65.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 315,
+					"y": 152,
+					"width": 200,
+					"height": 164
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up66.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 129,
+					"y": 186,
+					"width": 142,
+					"height": 132
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up67.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 129,
+					"y": 249,
+					"width": 141,
+					"height": 124
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up68.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 211,
+					"y": 108,
+					"width": 160,
+					"height": 87
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up69.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 95,
+					"y": 102,
+					"width": 174,
+					"height": 81
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up7.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 312,
+					"y": 237,
+					"width": 127,
+					"height": 190
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up70.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 294,
+					"y": 114,
+					"width": 238,
+					"height": 133
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up71.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 307,
+					"y": 100,
+					"width": 219,
+					"height": 155
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up72.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 92,
+					"y": 119,
+					"width": 159,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up73.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 314,
+					"y": 98,
+					"width": 177,
+					"height": 168
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up74.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 177,
+					"y": 114,
+					"width": 158,
+					"height": 88
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up75.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 261,
+					"y": 128,
+					"width": 239,
+					"height": 132
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up76.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 228,
+					"y": 101,
+					"width": 266,
+					"height": 145
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up77.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 313,
+					"y": 205,
+					"width": 201,
+					"height": 174
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up78.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 323,
+					"y": 211,
+					"width": 187,
+					"height": 169
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up79.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 94,
+					"y": 103,
+					"width": 185,
+					"height": 99
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up8.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 211,
+					"y": 140,
+					"width": 143,
+					"height": 78
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up80.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 224,
+					"y": 109,
+					"width": 150,
+					"height": 202
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up81.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 141,
+					"y": 234,
+					"width": 147,
+					"height": 131
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up82.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 99,
+					"y": 227,
+					"width": 149,
+					"height": 83
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up83.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 116,
+					"y": 89,
+					"width": 159,
+					"height": 82
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up84.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 204,
+					"y": 91,
+					"width": 225,
+					"height": 145
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up85.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 119,
+					"y": 97,
+					"width": 155,
+					"height": 82
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up86.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 129,
+					"y": 208,
+					"width": 149,
+					"height": 167
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up87.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 271,
+					"y": 271,
+					"width": 99,
+					"height": 168
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up88.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 207,
+					"y": 87,
+					"width": 220,
+					"height": 134
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up89.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 309,
+					"y": 153,
+					"width": 139,
+					"height": 189
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up9.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 325,
+					"y": 171,
+					"width": 147,
+					"height": 190
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up90.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 205,
+					"y": 122,
+					"width": 181,
+					"height": 171
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up91.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 215,
+					"y": 94,
+					"width": 157,
+					"height": 76
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up92.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 272,
+					"y": 269,
+					"width": 86,
+					"height": 166
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up93.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 262,
+					"y": 291,
+					"width": 174,
+					"height": 116
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up94.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 176,
+					"y": 164,
+					"width": 194,
+					"height": 128
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up95.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 206,
+					"y": 83,
+					"width": 223,
+					"height": 138
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up96.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 121,
+					"y": 229,
+					"width": 146,
+					"height": 136
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up97.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 202,
+					"y": 73,
+					"width": 271,
+					"height": 146
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up98.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 291,
+					"y": 279,
+					"width": 109,
+					"height": 194
+				}
+			}
+		]
+	},
+	{
+		"image": "pushup-up99.jpg",
+		"annotations": [
+			{
+				"label": "pushup-up",
+				"coordinates": {
+					"x": 282,
+					"y": 293,
+					"width": 163,
+					"height": 108
+				}
+			}
+		]
+	}
+]
