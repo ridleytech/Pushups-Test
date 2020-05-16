@@ -1,0 +1,103 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red27\green31\blue34;}
+{\*\expandedcolortbl;;\cssrgb\c14118\c16078\c18039;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 # Confirm that you have CUDA 10\
+!nvcc --version\
+\
+# Install libraries - you might need to restart the runtime after doing this\
+!pip install turicreate\
+# The wrong version of mxnet will be installed\
+# Install CUDA10-compatible version of mxnet\
+#!pip install mxnet-cu100\
+\
+import urllib\
+import tarfile\
+import coremltools\
+\
+import turicreate as tc\
+\
+tc.config.set_num_gpus(-1)\
+import os\
+from os import listdir\
+from os.path import isfile, join\
+import json\
+\
+imagesDir = 'pushup-images'\
+\
+#files = [f for f in listdir(path) if isfile(join(path, f))]\
+\
+input_file = open ('annotations-sorted.json')\
+json_array = json.load(input_file)\
+annotations = []\
+\
+for item in json_array:\
+    \
+    image = item['image']\
+    annotationItem = item['annotations']\
+    \
+#     print(annotation)\
+    \
+    label = annotationItem[0]['label']\
+    coordinates = annotationItem[0]['coordinates']\
+    \
+    x = coordinates['x']\
+    y = coordinates['y']\
+    width = coordinates['width']\
+    height = coordinates['height']\
+    \
+#     print("label: " + label + "width: " + str(width))\
+    \
+    entries = []\
+    \
+    coordinates = \{'height': height, 'width': width, 'x': x, 'y': y\}\
+    entry = \{ 'coordinates' : coordinates, 'label' : label \}\
+    annotations.append(entry)\
+    \
+\
+# print('[%s]' % ', '.join(map(str, annotations)))\
+\
+\
+sf_images = tc.image_analysis.load_images(imagesDir, random_order=False, with_path=True)\
+sf_images["annotations"] = annotations\
+sf_images['image_with_ground_truth'] = \\\
+    tc.object_detector.util.draw_bounding_boxes(sf_images['image'], sf_images['annotations'])\
+sf_images.save('pushupsFrame.sframe')\
+\
+\
+#preview sframe\
+\
+# sf_images.explore()\
+\
+\
+# Load the data\
+data =  tc.SFrame('pushupsFrame.sframe')\
+ \
+# Make a train-test split\
+train_data, test_data = data.random_split(0.8)\
+ \
+# Create a model\
+model = tc.object_detector.create(train_data, feature='image', max_iterations=120)\
+ \
+# Save predictions to an SArray\
+predictions = model.predict(test_data)\
+ \
+# Evaluate the model and save the results into a dictionary\
+metrics = model.evaluate(test_data)\
+ \
+# Export for use in Core ML\
+model.export_coreml('pushupsTC.mlmodel')\
+\
+\
+\
+\pard\pardeftab720\partightenfactor0
+
+\f1 \cf2 \expnd0\expndtw0\kerning0
+https://github.com/ridleytech/Pushups-Test.git\
+\
+https://github.com/apple/turicreate/issues/1249
+\f0 \cf0 \kerning1\expnd0\expndtw0 \
+}
